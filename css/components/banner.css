@@ -1,0 +1,5 @@
+.banner{
+  background-image: url('images/background.png')
+  width: 100%;
+  object-fit: cover;
+}
